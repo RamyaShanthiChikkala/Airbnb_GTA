@@ -1,9 +1,9 @@
 # Airbnb_GTA
 ## Introduction and Goal:
-Welcome to the Airbnb GTA Visualization Project! Our aim is to explore the dynamic landscape of short-term rentals in Toronto City through interactive visualizations. By analyzing the distribution of Airbnb properties, pricing variations, and host behaviors, we seek to provide valuable insights for both hosts and travelers, facilitating informed decision-making in the bustling hospitality market of Toronto City.
+Welcome to the Airbnb GTA Visualization Project! The aim is to explore the dynamic landscape of short-term rentals in Toronto City through interactive visualizations. By analyzing the distribution of Airbnb properties, pricing variations, and host behaviors, we seek to provide valuable insights for both hosts and travelers, facilitating informed decision-making in the bustling hospitality market of Toronto City.
 
 ## Analysis:
-Through exploratory data analysis and visualization techniques, we delve into the rich dataset of Airbnb listings in Toronto City. By uncovering spatial patterns, pricing disparities, and host dynamics, our analysis offers valuable insights into the intricate dynamics of the local hospitality industry, illuminating trends that shape the experiences of hosts and guests in the city.
+Through exploratory data analysis and visualization techniques, we delve into the rich dataset of Airbnb listings in Toronto City. By uncovering spatial patterns, pricing disparities, and host dynamics, the analysis offers valuable insights into the intricate dynamics of the local hospitality industry, illuminating trends that shape the experiences of hosts and guests in the city.
 
 ## Highlights:
 
@@ -14,7 +14,7 @@ Explore the interactive Tableau dashboard showcasing key insights into Airbnb pr
 Each property is uniquely identified by its calculated property ID, derived from a combination of host ID, latitude, and longitude. This identifier provides a comprehensive view of the property landscape in the dataset.
 
 ### *Comprehensive Analysis of Property Types:*
-Our project offers a thorough examination of property types available in Toronto City, including entire homes, private rooms, and shared rooms. Through detailed spatial analysis and booking trends, we uncover the popularity of each property type across different neighborhoods and boroughs, providing valuable insights for both hosts and travelers.
+The project offers a thorough examination of property types available in Toronto City, including entire homes, private rooms, and shared rooms. Through detailed spatial analysis and booking trends, we uncover the popularity of each property type across different neighborhoods and boroughs, providing valuable insights for both hosts and travelers.
 ## Report and Resources:
 The analysis findings are visually presented in a comprehensive Tableau dashboard accessible via the following link: Tableau Dashboard-AirBnb GTA
 
