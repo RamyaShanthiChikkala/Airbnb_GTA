@@ -18,4 +18,4 @@ The project offers a thorough examination of property types available in Toronto
 ## Report and Resources:
 The analysis findings are visually presented in a comprehensive Tableau dashboard accessible via the following link: Tableau Dashboard-[AirBnb GTA](https://public.tableau.com/app/profile/ramya.shanthi.chikkala/viz/Airbnb_GTA/Dashboard1?publish=yes)
 
-For detailed analysis, insights, and recommendations, please refer to the report in the document "AIRBNB GTA.pdf".
+For detailed analysis, please refer to the report in the document "AIRBNB GTA.pdf".
