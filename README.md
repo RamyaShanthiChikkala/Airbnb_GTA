@@ -16,6 +16,6 @@ Each property is uniquely identified by its calculated property ID, derived from
 ### *Comprehensive Analysis of Property Types:*
 The project offers a thorough examination of property types available in Toronto City, including entire homes, private rooms, and shared rooms. Through detailed spatial analysis and booking trends, we uncover the popularity of each property type across different neighborhoods and boroughs, providing valuable insights for both hosts and travelers.
 ## Report and Resources:
-The analysis findings are visually presented in a comprehensive Tableau dashboard accessible via the following link: Tableau Dashboard-[AirBnb GTA]()
+The analysis findings are visually presented in a comprehensive Tableau dashboard accessible via the following link: Tableau Dashboard-[AirBnb GTA](https://public.tableau.com/app/profile/ramya.shanthi.chikkala/viz/Airbnb_GTA/Dashboard1?publish=yes)
 
 For detailed analysis, insights, and recommendations, please refer to the report in the document "AIRBNB GTA.pdf".
